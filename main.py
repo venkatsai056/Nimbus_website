@@ -49,7 +49,7 @@ st.markdown("""
 
 # Company Name and Logo
 st.title("Welcome to Nimbus Insights")
-st.image("C:/Users/paspu/Downloads/logo-no-background 1 (3).png", use_column_width=True)
+st.image("static/logo-no-background.png", use_column_width=True)  # Use relative path
 
 # Navigation
 st.sidebar.title("Navigation")
