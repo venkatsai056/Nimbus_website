@@ -49,7 +49,8 @@ st.markdown("""
 
 # Company Name and Logo
 st.title("Welcome to Nimbus Insights")
-st.image("static/logo-no-background.png", use_column_width=True)  # Use relative path
+st.image("https://raw.githubusercontent.com/venkatsai056/Nimbus_website/main/static/logo-no-background%201%20(3).png",
+         use_column_width=True)  # Use raw URL
 
 # Navigation
 st.sidebar.title("Navigation")
@@ -99,7 +100,7 @@ elif page == "Services":
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="100">
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" width="100">
         <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" width="100">
-    
+
     </div>
     """, unsafe_allow_html=True)
 
