@@ -86,10 +86,11 @@ elif page == "Services":
     - **Support**: 24/7 support to ensure your operations run smoothly.
     - **Data Engineering**: Comprehensive data engineering services including:
         - **Snowflake**
-        - **Airflow**
+        - **Azure Data Factory**
         - **AWS**
         - **Azure**
         - **GCP**
+        - **Reactjs**
     """)
 
     # Display logos for the technologies
@@ -109,7 +110,7 @@ elif page == "Contact":
     st.header("Contact Us")
     st.write("Feel free to reach out to us through the following channels:")
     st.write("""
-    - **Email**: Hr@NimbusInsights.in
+    - **Email**: Ravali@NimbusInsights.in
     - **Phone**: +1 234 567 890
     - **Address**: Hyderabad, Hi-Tech, HY 12345
     """)
