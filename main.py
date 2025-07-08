@@ -126,5 +126,6 @@ elif page == "Contact":
             st.success("Thank you for your message! We will get back to you soon.")
 
 # Footer
+st.write("Designed by venkatasai")
 st.write("---")
 st.write("©Nimbus Insights. All rights reserved.")
