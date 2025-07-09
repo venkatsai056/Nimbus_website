@@ -49,6 +49,7 @@ st.markdown("""
 
 # Company Name and Logo
 st.title("Welcome to Nimbus Insights")
+st.image(https://www.nimbusinsights.cloud/assets/logo-JHWB-tWI.png)
 
 # Navigation
 st.sidebar.title("Navigation")
