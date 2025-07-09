@@ -49,8 +49,6 @@ st.markdown("""
 
 # Company Name and Logo
 st.title("Welcome to Nimbus Insights")
-st.image("https://raw.githubusercontent.com/venkatsai056/Nimbus_website/main/static/logo-no-background%201%20(3).png",
-         use_column_width=True)  # Use raw URL
 
 # Navigation
 st.sidebar.title("Navigation")
