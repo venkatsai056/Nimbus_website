@@ -86,7 +86,7 @@ elif page == "Services":
     - **Support**: 24/7 support to ensure your operations run smoothly.
     - **Data Engineering**: Comprehensive data engineering services including:
         - **Snowflake**
-        - **Airflow**
+        - **Azure Data factory**
         - **AWS**
         - **Azure**
         - **GCP**
@@ -109,9 +109,9 @@ elif page == "Contact":
     st.header("Contact Us")
     st.write("Feel free to reach out to us through the following channels:")
     st.write("""
-    - **Email**: Hr@NimbusInsights.in
-    - **Phone**: +1 234 567 890
-    - **Address**: Hyderabad, Hi-Tech, HY 12345
+    - **Email**: Ravali@NimbusInsights.in
+    - **Phone**: +91 9014173685
+    - **Address**: vijayawada, Br concepts, 520007
     """)
 
     # Contact Form
